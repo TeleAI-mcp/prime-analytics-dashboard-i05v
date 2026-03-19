@@ -1,2 +1,3 @@
-# prime-analytics-dashboard-i05v
-Automated issue comment bot repository
+# Prime Analytics Dashboard I05V
+
+Automated issue comment bot repository.
